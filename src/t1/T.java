@@ -6,6 +6,7 @@ public class T {
 		System.out.println("主干3");
 		System.out.println("主干2");
 		System.out.println("主干1");
+
 		
 	}
 }
