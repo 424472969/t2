@@ -7,7 +7,5 @@ public class T {
 		System.out.println("2");
 		System.out.println("服务端");
 		System.out.println("客户1");
-
-		
 	}
 }
