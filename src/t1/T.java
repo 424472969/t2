@@ -5,6 +5,8 @@ public class T {
 		System.out.println("主干7");
 		System.out.println("1");
 		System.out.println("服务端");
+		System.out.println("客户1");
+
 		
 	}
 }
